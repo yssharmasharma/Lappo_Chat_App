@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_tabPager" type="id" />
+    <item name="main_page_toolbar" type="id" />
+    <item name="main_tabs" type="id" />
+</resources>

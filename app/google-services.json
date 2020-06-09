@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52103427730",
+    "firebase_url": "https://lapochat.firebaseio.com",
+    "project_id": "lapochat",
+    "storage_bucket": "lapochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52103427730:android:edaa240699a4606293584b",
+        "android_client_info": {
+          "package_name": "com.example.lapochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52103427730-juerkumkchdmmnkobum9l2qudkr80h86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lapochat",
+            "certificate_hash": "9f3edc7472260c86604895b0aaf6538de0701dd6"
+          }
+        },
+        {
+          "client_id": "52103427730-9duupmrbqtn69frue2opvgcc67ip35ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iymDmk2N4UPSXZY-O3e7KgRtx5bwy4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52103427730-9duupmrbqtn69frue2opvgcc67ip35ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
